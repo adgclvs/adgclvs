@@ -21,3 +21,25 @@
 
 Welcome to my GitHub profile! As a blockchain developer, I'm deeply passionate about pushing the boundaries of what's possible with decentralized technologies. I enjoy exploring new frameworks, staying updated with the latest industry trends, and contributing to open source projects. Dive into my repositories to see what I've been up to!
 
+html, body {
+  width: 100%;
+  height:100%;
+}
+
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
