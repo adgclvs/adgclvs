@@ -1,6 +1,6 @@
 <div style="background-color: red;">
   
-<h1 align="center">Hi 👋, I'm Adrien</h1>
+<h1 align="center" style="background-color: red;">Hi 👋, I'm Adrien</h1>
 <h3 align="center">A passionate Blockchain developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://adgclvs.netlify.app](https://adgclvs.netlify.app)
