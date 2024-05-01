@@ -11,13 +11,12 @@
 
 ## 📚 Formation
 
-- **Licence Informatique**, Université de Bordeaux (2021 - aujourd'hui)
-- **Baccalauréat**, Lycée Alfred Kastler, Talence (2018 - 2021)
+- **Licence Informatique**, Université de Bordeaux
 
 ## 👨‍💻 Projets
 
 - **Projets Universitaires :** Participation à la conception de mini-jeux en équipe, mettant en avant la collaboration et la créativité.
-- **Projets Personnels / Professionnels :** Développement de sites web et expérimentation avec le backend à travers la création de jeux.
+- **Projets Personnels :** Développement de sites web et expérimentation avec le backend à travers la création de jeux.
 
 ## 🌐 Portfolio & Réseaux Sociaux
 
