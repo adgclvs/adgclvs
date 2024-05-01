@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>README - Adrien Gonçalves</title>
-</head>
-<body>
+
+
     <header>
         <h1>Bonjour 👋, je suis Adrien Gonçalves!</h1>
         <p>🎓 <strong>Étudiant en Informatique à l'Université de Bordeaux</strong></p>
@@ -51,5 +50,4 @@
             <li><strong>Email :</strong> <a href="mailto:adriengoncalves2003@gmail.com">adriengoncalves2003@gmail.com</a></li>
         </ul>
     </section>
-</body>
-</html>
+
