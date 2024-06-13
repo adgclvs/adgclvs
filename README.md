@@ -5,18 +5,20 @@
 
 ## 💻 Compétences Techniques
 
-- **Langages de programmation :** C, Java, React, Solidity
-- **Développement Web :** Expérience en création de sites web avec une forte maîtrise de React.
+- **Langages de programmation :** C, JavaScript, React, Solidity
+- **Développement Web :** Expérience en création de sites web avec une maîtrise de React.
 - **Web3 et Blockchain :** Apprentissage en cours de Solidity et de son écosystème.
 
 ## 📚 Formation
 
 - **Licence Informatique**, Université de Bordeaux
+- **Master Informatique**, Université de Bordeaux (en cours)
+- **Certification RS6515**, Alyra (en cours)
 
 ## 👨‍💻 Projets
 
 - **Projets Universitaires :** Participation à la conception de mini-jeux en équipe, mettant en avant la collaboration et la créativité.
-- **Projets Personnels :** Développement de sites web et expérimentation avec le backend à travers la création de jeux.
+- **Projets Personnels :** Développement de sites web et DApp.
 
 ## 🌐 Portfolio & Réseaux Sociaux
 
