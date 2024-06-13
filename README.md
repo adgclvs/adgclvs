@@ -29,6 +29,5 @@
 
 - **Email :** [adriengoncalves2003@gmail.com](mailto:adriengoncalves2003@gmail.com)
 
-  ![image](https://github.com/adgclvs/adgclvs/assets/128573246/4626bd2d-1a94-4598-8260-1473fba5c760)
-  ![image](https://github.com/adgclvs/adgclvs/assets/128573246/100e604d-12eb-46ac-9ed5-078beef40a8a)
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
