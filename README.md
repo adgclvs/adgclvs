@@ -19,6 +19,7 @@
 
 - **Projets Universitaires :** Participation à la conception de mini-jeux en équipe, mettant en avant la collaboration et la créativité.
 - **Projets Personnels :** Développement de sites web et DApp.
+- **Projets Alyra :** Développement d'une Dapp, RWA de bien immobilier (Ymmo.io) .
 
 ## 🌐 Portfolio & Réseaux Sociaux
 
