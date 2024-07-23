@@ -13,7 +13,7 @@
 
 - **Licence Informatique**, Université de Bordeaux
 - **Master Informatique**, Université de Bordeaux (en cours)
-- **Certification RS6515**, Alyra (en cours)
+- **Certification RS6515**, Alyra
 
 ## 👨‍💻 Projets
 
