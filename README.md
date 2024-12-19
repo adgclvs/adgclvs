@@ -1,15 +1,45 @@
-# Bonjour 👋, je suis Adrien Gonçalves!
+<h1 align="center">
+    Hii, I'm Adrien <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+</h1>
 
-🎓 **Étudiant en Informatique à l'Université de Bordeaux**  
-🌍 Basé à Mérignac, France
+- 20 y/o Software Engineering Master's student
+- Full-stack Blockchain developer.
+- I like to create projects that can impact the world.
+- **Certification RS6515**, Alyra
+- **LinkedIn :** [Adrien Gonçalves](http://linkedin.com/in/adrien-gonçalves)
 
-## 💻 Compétences Techniques
+## My Stack
 
-- **Langages de programmation :** C, JavaScript, React, Solidity
-- **Développement Web :** Expérience en création de sites web avec une maîtrise de React.
-- **Web3 et Blockchain :** Apprentissage en cours de Solidity et de son écosystème.
+<details>
+<summary><b>🎡 Blockchain:</b></summary>
 
-### Langages et Technologies :
+  - **Chains:** `EVM Chains`
+  - **Programming:** `Solidity` • `JavaScript` • `TypeScript`
+  - **Framework/Library:** `Hardhat` • `Foundary` • `Ethers`  • `Web3js`
+  - **SDK Library:** `Wagmi` • `Rainbow Kit`
+  - **Data:** `Chainlink` • `The Graph`
+  - **File Storage:** `IPFS`
+
+</details>
+
+<details>
+<summary><b>🖥️ Web:</b></summary>
+    
+  - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
+  - **Framework:** `React.js` • `Next.js`
+  - **UI:** `Tailwind` • `MUI`
+  - **Data:** `Axios`
+    
+</details>
+
+<details>
+<summary><b>🗄️ Backend:</b></summary>
+    
+  - **Programming:** `JavaScript` • `TypeScript`
+  - **Framework:** `Next.js`
+  - **Databases:** `Firebase`
+
+</details>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -24,24 +54,3 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a> <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://docs.ipfs.tech/images/ipfs-logo.svg" width="36" height="36" alt="IPFS" /></a>
-
-  ## 📚 Formation
-
-- **Licence Informatique**, Université de Bordeaux
-- **Master Informatique**, Université de Bordeaux (en cours)
-- **Certification RS6515**, Alyra
-
-## 👨‍💻 Projets
-
-- **Projets Universitaires :** Participation à la conception de mini-jeux en équipe, mettant en avant la collaboration et la créativité.
-- **Projets Personnels :** Développement de sites web et DApp.
-- **Projets Alyra :** Développement d'une Dapp, RWA de bien immobilier (Ymmo.io).
-
-## 🌐 Portfolio & Réseaux Sociaux
-
-- **Portfolio :** [adgclvs.netlify.app](https://adgclvs.netlify.app)
-- **LinkedIn :** [Adrien Gonçalves](http://linkedin.com/in/adrien-gonçalves)
-
-## 📞 Contact
-
-- **Email :** [adriengoncalves2003@gmail.com](mailto:adriengoncalves2003@gmail.com)
