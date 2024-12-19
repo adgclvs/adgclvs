@@ -2,7 +2,7 @@
     Hii, I'm Adrien <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- 20 y/o Software Engineering Master's student
+- 21 y/o Software Engineering Master's student
 - Full-stack Blockchain developer.
 - I like to create projects that can impact the world.
 - **Certification RS6515**, Alyra
@@ -10,8 +10,8 @@
 
 ## My Stack
 
-<details>
-<summary><b>🎡 Blockchain:</b></summary>
+
+<b>🎡 Blockchain:</b>
 
   - **Chains:** `EVM Chains`
   - **Programming:** `Solidity` • `JavaScript` • `TypeScript`
@@ -19,27 +19,26 @@
   - **SDK Library:** `Wagmi` • `Rainbow Kit`
   - **Data:** `Chainlink` • `The Graph`
   - **File Storage:** `IPFS`
+<br>
 
-</details>
 
-<details>
-<summary><b>🖥️ Web:</b></summary>
+<b>🖥️ Web:</b>
     
   - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
   - **Framework:** `React.js` • `Next.js`
   - **UI:** `Tailwind` • `MUI`
   - **Data:** `Axios`
+<br>
     
-</details>
 
-<details>
-<summary><b>🗄️ Backend:</b></summary>
+<b>🗄️ Backend:</b>
     
   - **Programming:** `JavaScript` • `TypeScript`
   - **Framework:** `Next.js`
   - **Databases:** `Firebase`
+<br>
 
-</details>
+<br>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
