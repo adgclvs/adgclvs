@@ -2,7 +2,7 @@
     Hii, I'm Adrien <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- 21 y/o Software Engineering Master's student
+- 22 y/o Software Engineering Master's student
 - Full-stack Blockchain developer.
 - I like to create projects that can impact the world.
 - **Certification RS6515**, Alyra
