@@ -10,7 +10,6 @@
 
 ## My Stack
 
-
 <b>🎡 Blockchain:</b>
 
   - **Chains:** `EVM Chains`
